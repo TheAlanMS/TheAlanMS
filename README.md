@@ -1,6 +1,6 @@
 # Alan M. Salinas
 
-**AI Operations Consultant. Builder. Founder @ Caelus Consulting LLC.**
+**AI Builder. AI Operations Consultant. Founder & Principal Consultant @ Caelus Consulting LLC.**
 
 I design AI systems that remove the operational drag from high-volume, repetitive work.
 My clients come in with 60-hour problems. They leave with 4-hour workflows.
