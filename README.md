@@ -43,5 +43,4 @@ Interested in: AI-native operations design, LLM orchestration, product-led consu
 ## Connect
 
 - LinkedIn: [linkedin.com/in/alansalinas13](https://www.linkedin.com/in/alansalinas13)
-- Email: TheAlanMS@gmail.com
-- Consulting: Caelus Consulting LLC, Greater McAllen Area / Remote
+- Consulting: Caelus Consulting LLC | Rio Grande Valley, Texas / Remote
